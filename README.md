@@ -1,5 +1,4 @@
 # service-for-user-segmentation
-Microservice for managing user segments and experiment distribution
 Микросервис для создания сегментов и управления ими, с возможностью распределения сегментов по пользователям.
 Алгоритм запуска проекта:
 1. Установите зависимости из requirements:
